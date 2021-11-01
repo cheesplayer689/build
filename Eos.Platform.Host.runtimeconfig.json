@@ -1,13 +1,12 @@
 {
   "runtimeOptions": {
-    "tfm": "net5.0",
+    "tfm": "netcoreapp3.1",
     "framework": {
       "name": "Microsoft.AspNetCore.App",
-      "version": "5.0.3"
+      "version": "3.1.6"
     },
     "configProperties": {
-      "System.GC.Server": true,
-      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true
+      "System.GC.Server": true
     }
   }
 }
